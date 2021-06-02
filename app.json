@@ -153,7 +153,7 @@
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
-         "required": false,
+         "required": true,
          "value": ""
       },
       "No_LOAD": {
